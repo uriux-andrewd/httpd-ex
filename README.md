@@ -1,3 +1,11 @@
+# URIUX OpenShift Base Image for Testing
+
+Used as a dummy app for testing OpenShift
+
+This app is just the Apache httpd static application with edits to the index page.
+
+
+
 # Apache HTTP Server (httpd) S2I Sample Application
 
 This is a very basic sample application repository that can be built and deployed
